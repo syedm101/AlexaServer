@@ -1,0 +1,3 @@
+[submodule "apps/LoLAlexaSkill"]
+	path = apps/LoLAlexaSkill
+	url = https://github.com/syedm101/LoLAlexaSkill.git
